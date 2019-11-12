@@ -24,3 +24,7 @@ achieved for castling, but that requires moving out all pieces other than rooks
 to the two sides of the king.
 Although case 3 demonstrates checkmate, testing was not
 exhaustive, and it is possible that the program fials to recognize a checkmate.
+
+![Move to checkmate.](checkmate_move.png)
+
+![Checkmate message.](checkmate.png)
