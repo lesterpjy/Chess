@@ -1,4 +1,5 @@
 # Chess
+This is a personal project completed as part of a course requirement for W200 Python Fundamentals for Data Science at Berkeley.
 A game of chess played from the terminal using the standard algebraic notation.
 
 The program assumes basic understanding of standard algebraic
