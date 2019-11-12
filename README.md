@@ -21,5 +21,5 @@ checkmated.
 In case 4, the disambiguation ability is shown. This can also be
 achieved for castling, but that requires moving out all pieces other than rooks
 to the two sides of the king.
-Although case 3 demonstrates the checkmate ability, testing was not
+Although case 3 demonstrates checkmate, testing was not
 exhaustive, and it is possible that the program fials to recognize a checkmate.
