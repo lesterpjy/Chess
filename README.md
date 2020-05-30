@@ -25,7 +25,7 @@ Although case 3 demonstrates checkmate, testing was not
 exhaustive, and it is possible that the program fials to recognize a checkmate.
 
 Move to checkmate:
-![Move to checkmate.](checkmate_move.png)
+<img src="checkmate_move.png" width="500">
 
 Checkmate message:
-![Checkmate message.](checkmate.png)
+<img src="checkmate.png" width="500">
