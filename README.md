@@ -24,8 +24,7 @@ to the two sides of the king.
 Although case 3 demonstrates checkmate, testing was not
 exhaustive, and it is possible that the program fials to recognize a checkmate.
 
-Move to checkmate:
+
 <img src="checkmate_move.png" width="500">
 
-Checkmate message:
 <img src="checkmate.png" width="500">
