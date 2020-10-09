@@ -7,8 +7,9 @@ chess pieces. Although it gives some simple instructions at the
 beginning of the game,
 if the user is unclear about anything, please refer to the wikipedia
 page referenced in game.
-As examples of how to play the game after 'starting the game', here
-are two commands to enter to demonstrate the game's ability.
+
+As examples of how to manipulate pieces, here
+are four command cases to demonstrate the game's ability.
 
 1. white starts: e4, c5, nf3, nc6, bb5, g6, bxc6, dxc6, o-o,...
 2. white starts: d4, e5, nf3, bb4,...
